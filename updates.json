@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.6",
-                   "notes":  "• Your settings and canned messages are saved to your account and shared between your apps (Windows + phone)\n• New-conversation sound no longer repeats for customers without a name\n• Canned Messages: the list can be scrolled back up after adding a message",
-                   "date":  "2026-09-25T18:49:08Z",
+                   "version":  "0.2.7",
+                   "notes":  "• Edit menu: Freshchat Resolve (asks to confirm, then resolves the conversation in Freshchat)\n• Developer build for testing",
+                   "date":  "2026-09-25T21:15:24Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.6/PimaxSupportSystem_Setup_v0.2.6.exe",
-                                   "sha256":  "bcf9ff26c05124d01273e3adf73e20a2a085837bf98dd16a9cebe09a1e938e5c"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.7/PimaxSupportSystem_Setup_v0.2.7.exe",
+                                   "sha256":  "77e084e3136f686114d5a8cc3abecf485eb7bbf1ddcd35894b32895a81617777"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.6/PimaxSupportSystem_v0.2.6.apk",
-                                   "sha256":  "6242503bcc6637a4146bc3552f718f6677f8e6bd28cfc4ddfd3e01546020ff81"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.7/PimaxSupportSystem_v0.2.7.apk",
+                                   "sha256":  "3efeea41ca9d9a7aafe1414af53a9b2babda027ed2fba49be2b34ff0f3543d2a"
                                }
                },
     "releases":  {
@@ -51,6 +51,19 @@
                                    "android":  {
                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.6/PimaxSupportSystem_v0.2.6.apk",
                                                    "sha256":  "6242503bcc6637a4146bc3552f718f6677f8e6bd28cfc4ddfd3e01546020ff81"
+                                               }
+                               },
+                     "0.2.7":  {
+                                   "version":  "0.2.7",
+                                   "notes":  "• Edit menu: Freshchat Resolve (asks to confirm, then resolves the conversation in Freshchat)\n• Developer build for testing",
+                                   "date":  "2026-09-25T21:15:24Z",
+                                   "windows":  {
+                                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.7/PimaxSupportSystem_Setup_v0.2.7.exe",
+                                                   "sha256":  "77e084e3136f686114d5a8cc3abecf485eb7bbf1ddcd35894b32895a81617777"
+                                               },
+                                   "android":  {
+                                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.7/PimaxSupportSystem_v0.2.7.apk",
+                                                   "sha256":  "3efeea41ca9d9a7aafe1414af53a9b2babda027ed2fba49be2b34ff0f3543d2a"
                                                }
                                }
                  }
