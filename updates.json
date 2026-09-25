@@ -1,6 +1,18 @@
 {
     "schema":  1,
-    "public":  null,
+    "public":  {
+                   "version":  "0.2.6",
+                   "notes":  "• Your settings and canned messages are saved to your account and shared between your apps (Windows + phone)\n• New-conversation sound no longer repeats for customers without a name\n• Canned Messages: the list can be scrolled back up after adding a message",
+                   "date":  "2026-09-25T18:49:08Z",
+                   "windows":  {
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.6/PimaxSupportSystem_Setup_v0.2.6.exe",
+                                   "sha256":  "bcf9ff26c05124d01273e3adf73e20a2a085837bf98dd16a9cebe09a1e938e5c"
+                               },
+                   "android":  {
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.6/PimaxSupportSystem_v0.2.6.apk",
+                                   "sha256":  "6242503bcc6637a4146bc3552f718f6677f8e6bd28cfc4ddfd3e01546020ff81"
+                               }
+               },
     "latest":  {
                    "version":  "0.2.6",
                    "notes":  "• Your settings and canned messages are saved to your account and shared between your apps (Windows + phone)\n• New-conversation sound no longer repeats for customers without a name\n• Canned Messages: the list can be scrolled back up after adding a message",
