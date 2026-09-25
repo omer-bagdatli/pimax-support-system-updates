@@ -1,0 +1,32 @@
+{
+    "schema":  1,
+    "public":  null,
+    "latest":  {
+                   "version":  "0.2.5",
+                   "notes":  "• In-app updates (this is the first version that can update itself)\n• Unsent-message cache: \u0027Message not sent\u0027 warning with Load message\n• Drafts are kept per customer\n• Android: splash screen, background alerts fix",
+                   "date":  "2026-09-25T16:05:15Z",
+                   "windows":  {
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.5/PimaxSupportSystem_Setup_v0.2.5.exe",
+                                   "sha256":  "fe8912b44ca342f9ad72c81ffaaa5333b345def94030fc5d7a03827f5678065c"
+                               },
+                   "android":  {
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.5/PimaxSupportSystem_v0.2.5.apk",
+                                   "sha256":  "062d37de3b240215c3a270d605bf074ea7239120b267c26ea59e95ec7112fbad"
+                               }
+               },
+    "releases":  {
+                     "0.2.5":  {
+                                   "version":  "0.2.5",
+                                   "notes":  "• In-app updates (this is the first version that can update itself)\n• Unsent-message cache: \u0027Message not sent\u0027 warning with Load message\n• Drafts are kept per customer\n• Android: splash screen, background alerts fix",
+                                   "date":  "2026-09-25T16:05:15Z",
+                                   "windows":  {
+                                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.5/PimaxSupportSystem_Setup_v0.2.5.exe",
+                                                   "sha256":  "fe8912b44ca342f9ad72c81ffaaa5333b345def94030fc5d7a03827f5678065c"
+                                               },
+                                   "android":  {
+                                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.5/PimaxSupportSystem_v0.2.5.apk",
+                                                   "sha256":  "062d37de3b240215c3a270d605bf074ea7239120b267c26ea59e95ec7112fbad"
+                                               }
+                               }
+                 }
+}
