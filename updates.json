@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.13",
-                   "notes":  "Shows when a customer is typing (from Freshchat), in the conversation list and in the chat.",
-                   "date":  "2026-09-27T18:01:55Z",
+                   "version":  "0.2.14",
+                   "notes":  "Customer typing indicator (from Freshchat). Updates now show up within minutes.",
+                   "date":  "2026-09-27T18:06:11Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.13/PimaxSupportSystem_Setup_v0.2.13.exe",
-                                   "sha256":  "3adfc0166dab24f867b200417759f089696ea62428cb5754a2c9db3eca2407b8"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.14/PimaxSupportSystem_Setup_v0.2.14.exe",
+                                   "sha256":  "eba3dad4c427cde5a6b16cc5ecf4181c0cefe1837e5d06900ae492626ee9fbb9"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.13/PimaxSupportSystem_v0.2.13.apk",
-                                   "sha256":  "9423ce869d60aa18e6559d3d562134ac3f78925d75d523aee901c038bd29c133"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.14/PimaxSupportSystem_v0.2.14.apk",
+                                   "sha256":  "2679de264b433a2613086da828d9cef6113113346b7678717b70fe43a87baa92"
                                }
                },
     "releases":  {
@@ -142,6 +142,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.13/PimaxSupportSystem_v0.2.13.apk",
                                                     "sha256":  "9423ce869d60aa18e6559d3d562134ac3f78925d75d523aee901c038bd29c133"
+                                                }
+                                },
+                     "0.2.14":  {
+                                    "version":  "0.2.14",
+                                    "notes":  "Customer typing indicator (from Freshchat). Updates now show up within minutes.",
+                                    "date":  "2026-09-27T18:06:11Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.14/PimaxSupportSystem_Setup_v0.2.14.exe",
+                                                    "sha256":  "eba3dad4c427cde5a6b16cc5ecf4181c0cefe1837e5d06900ae492626ee9fbb9"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.14/PimaxSupportSystem_v0.2.14.apk",
+                                                    "sha256":  "2679de264b433a2613086da828d9cef6113113346b7678717b70fe43a87baa92"
                                                 }
                                 }
                  }
