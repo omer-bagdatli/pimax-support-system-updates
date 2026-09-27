@@ -1,29 +1,29 @@
 {
     "schema":  1,
     "public":  {
-                   "version":  "0.2.12",
-                   "notes":  "A conversation stays waiting until an agent replies; bot and system messages no longer count as an answer.",
-                   "date":  "2026-09-27T17:23:19Z",
+                   "version":  "0.2.17",
+                   "notes":  "Read-by agents in chat, redesigned contact info, typing glow, glowing update badge. Phone: Vibrate setting, sounds at notification volume.",
+                   "date":  "2026-09-27T19:27:44Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_Setup_v0.2.12.exe",
-                                   "sha256":  "9f8b07fabb6695495387432416144243112ee136d34da66f1fff6c7c0a8f1856"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_Setup_v0.2.17.exe",
+                                   "sha256":  "146cac0e474fad7e0bc8a1313574c59a1420f7be10079b228573ed3ae5ccec15"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_v0.2.12.apk",
-                                   "sha256":  "86f2fa75d26583c5fab833384d4b8d30b8453f28650a3c103dc1c0613878d4d9"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_v0.2.17.apk",
+                                   "sha256":  "ea260b8396071702b0bc33a35d80f1ac394629c8b3e935fa8a4e99419c51e12b"
                                }
                },
     "latest":  {
-                   "version":  "0.2.14",
-                   "notes":  "Customer typing indicator (from Freshchat). Updates now show up within minutes.",
-                   "date":  "2026-09-27T18:06:11Z",
+                   "version":  "0.2.17",
+                   "notes":  "Read-by agents in chat, redesigned contact info, typing glow, glowing update badge. Phone: Vibrate setting, sounds at notification volume.",
+                   "date":  "2026-09-27T19:27:44Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.14/PimaxSupportSystem_Setup_v0.2.14.exe",
-                                   "sha256":  "eba3dad4c427cde5a6b16cc5ecf4181c0cefe1837e5d06900ae492626ee9fbb9"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_Setup_v0.2.17.exe",
+                                   "sha256":  "146cac0e474fad7e0bc8a1313574c59a1420f7be10079b228573ed3ae5ccec15"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.14/PimaxSupportSystem_v0.2.14.apk",
-                                   "sha256":  "2679de264b433a2613086da828d9cef6113113346b7678717b70fe43a87baa92"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_v0.2.17.apk",
+                                   "sha256":  "ea260b8396071702b0bc33a35d80f1ac394629c8b3e935fa8a4e99419c51e12b"
                                }
                },
     "releases":  {
@@ -155,6 +155,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.14/PimaxSupportSystem_v0.2.14.apk",
                                                     "sha256":  "2679de264b433a2613086da828d9cef6113113346b7678717b70fe43a87baa92"
+                                                }
+                                },
+                     "0.2.17":  {
+                                    "version":  "0.2.17",
+                                    "notes":  "Read-by agents in chat, redesigned contact info, typing glow, glowing update badge. Phone: Vibrate setting, sounds at notification volume.",
+                                    "date":  "2026-09-27T19:27:44Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_Setup_v0.2.17.exe",
+                                                    "sha256":  "146cac0e474fad7e0bc8a1313574c59a1420f7be10079b228573ed3ae5ccec15"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_v0.2.17.apk",
+                                                    "sha256":  "ea260b8396071702b0bc33a35d80f1ac394629c8b3e935fa8a4e99419c51e12b"
                                                 }
                                 }
                  }
