@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.8",
-                   "notes":  "• Fixed: \u0027Message not sent\u0027 warning appeared for messages that were sent (translated messages)\n• Fixed: replies containing the ticket link were treated as bot messages, so the customer kept ringing as unanswered\n• Freshchat Resolve in the Edit menu",
-                   "date":  "2026-09-27T14:20:09Z",
+                   "version":  "0.2.9",
+                   "notes":  "• Much better translation: Google Translate (offline translation stays as backup)\n• \u0027G\u0027 badge shows which messages Google translated",
+                   "date":  "2026-09-27T16:00:18Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.8/PimaxSupportSystem_Setup_v0.2.8.exe",
-                                   "sha256":  "868c589696fdb52a2252da7020a9a5f9375602636ea802e13fdac1fc8d6d77fd"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.9/PimaxSupportSystem_Setup_v0.2.9.exe",
+                                   "sha256":  "687ffd86e1cc34deab51f297ca3f5de4c9234c2f2d03dd0f68a240bc34351143"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.8/PimaxSupportSystem_v0.2.8.apk",
-                                   "sha256":  "2a50f55ba7314964490528ed5b204216d6d5c50620b484a6cb1bf376004d2d86"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.9/PimaxSupportSystem_v0.2.9.apk",
+                                   "sha256":  "48059447973130dad45a94c56573f97bcf5aa417bfa8c1208d82c13b1074f0df"
                                }
                },
     "releases":  {
@@ -77,6 +77,19 @@
                                    "android":  {
                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.8/PimaxSupportSystem_v0.2.8.apk",
                                                    "sha256":  "2a50f55ba7314964490528ed5b204216d6d5c50620b484a6cb1bf376004d2d86"
+                                               }
+                               },
+                     "0.2.9":  {
+                                   "version":  "0.2.9",
+                                   "notes":  "• Much better translation: Google Translate (offline translation stays as backup)\n• \u0027G\u0027 badge shows which messages Google translated",
+                                   "date":  "2026-09-27T16:00:18Z",
+                                   "windows":  {
+                                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.9/PimaxSupportSystem_Setup_v0.2.9.exe",
+                                                   "sha256":  "687ffd86e1cc34deab51f297ca3f5de4c9234c2f2d03dd0f68a240bc34351143"
+                                               },
+                                   "android":  {
+                                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.9/PimaxSupportSystem_v0.2.9.apk",
+                                                   "sha256":  "48059447973130dad45a94c56573f97bcf5aa417bfa8c1208d82c13b1074f0df"
                                                }
                                }
                  }
