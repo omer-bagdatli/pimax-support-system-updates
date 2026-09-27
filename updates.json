@@ -1,16 +1,16 @@
 {
     "schema":  1,
     "public":  {
-                   "version":  "0.2.8",
-                   "notes":  "• Fixed: \u0027Message not sent\u0027 warning appeared for messages that were sent (translated messages)\n• Fixed: replies containing the ticket link were treated as bot messages, so the customer kept ringing as unanswered\n• Freshchat Resolve in the Edit menu",
-                   "date":  "2026-09-27T14:20:09Z",
+                   "version":  "0.2.12",
+                   "notes":  "A conversation stays waiting until an agent replies; bot and system messages no longer count as an answer.",
+                   "date":  "2026-09-27T17:23:19Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.8/PimaxSupportSystem_Setup_v0.2.8.exe",
-                                   "sha256":  "868c589696fdb52a2252da7020a9a5f9375602636ea802e13fdac1fc8d6d77fd"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_Setup_v0.2.12.exe",
+                                   "sha256":  "9f8b07fabb6695495387432416144243112ee136d34da66f1fff6c7c0a8f1856"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.8/PimaxSupportSystem_v0.2.8.apk",
-                                   "sha256":  "2a50f55ba7314964490528ed5b204216d6d5c50620b484a6cb1bf376004d2d86"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_v0.2.12.apk",
+                                   "sha256":  "86f2fa75d26583c5fab833384d4b8d30b8453f28650a3c103dc1c0613878d4d9"
                                }
                },
     "latest":  {
