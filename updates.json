@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.11",
-                   "notes":  "Freshchat section in the Edit menu: Resolve and Waiting for Customer. Customer messages in any language now translate into Chinese.",
-                   "date":  "2026-09-27T17:05:16Z",
+                   "version":  "0.2.12",
+                   "notes":  "A conversation stays waiting until an agent replies; bot and system messages no longer count as an answer.",
+                   "date":  "2026-09-27T17:23:19Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.11/PimaxSupportSystem_Setup_v0.2.11.exe",
-                                   "sha256":  "7665f24aab95d2bd2574f2b7c6ba8e7643cf174fa2fff200eb6269ce70dfcbfa"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_Setup_v0.2.12.exe",
+                                   "sha256":  "9f8b07fabb6695495387432416144243112ee136d34da66f1fff6c7c0a8f1856"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.11/PimaxSupportSystem_v0.2.11.apk",
-                                   "sha256":  "b249a3a344bd903973146fc44607b8e2f5f4c2de2f8e775a1ff36d779834a931"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_v0.2.12.apk",
+                                   "sha256":  "86f2fa75d26583c5fab833384d4b8d30b8453f28650a3c103dc1c0613878d4d9"
                                }
                },
     "releases":  {
@@ -116,6 +116,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.11/PimaxSupportSystem_v0.2.11.apk",
                                                     "sha256":  "b249a3a344bd903973146fc44607b8e2f5f4c2de2f8e775a1ff36d779834a931"
+                                                }
+                                },
+                     "0.2.12":  {
+                                    "version":  "0.2.12",
+                                    "notes":  "A conversation stays waiting until an agent replies; bot and system messages no longer count as an answer.",
+                                    "date":  "2026-09-27T17:23:19Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_Setup_v0.2.12.exe",
+                                                    "sha256":  "9f8b07fabb6695495387432416144243112ee136d34da66f1fff6c7c0a8f1856"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_v0.2.12.apk",
+                                                    "sha256":  "86f2fa75d26583c5fab833384d4b8d30b8453f28650a3c103dc1c0613878d4d9"
                                                 }
                                 }
                  }
