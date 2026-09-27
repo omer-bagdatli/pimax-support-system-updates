@@ -1,16 +1,16 @@
 {
     "schema":  1,
     "public":  {
-                   "version":  "0.2.17",
-                   "notes":  "Read-by agents in chat, redesigned contact info, typing glow, glowing update badge. Phone: Vibrate setting, sounds at notification volume.",
-                   "date":  "2026-09-27T19:27:44Z",
+                   "version":  "0.2.20",
+                   "notes":  "Private notes now appear in the chat in time order; Private Note selector left of + Add.",
+                   "date":  "2026-09-27T21:12:57Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_Setup_v0.2.17.exe",
-                                   "sha256":  "146cac0e474fad7e0bc8a1313574c59a1420f7be10079b228573ed3ae5ccec15"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_Setup_v0.2.20.exe",
+                                   "sha256":  "93d82c494998b4240ebcecb793130a8954e53829d9c1b8872331bdf2e37c7398"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_v0.2.17.apk",
-                                   "sha256":  "ea260b8396071702b0bc33a35d80f1ac394629c8b3e935fa8a4e99419c51e12b"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_v0.2.20.apk",
+                                   "sha256":  "9ac00991e574e90595f5c2d09ab0e57f967441fef1cfec47428e7ea071fffdd4"
                                }
                },
     "latest":  {
