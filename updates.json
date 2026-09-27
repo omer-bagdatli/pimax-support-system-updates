@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.9",
-                   "notes":  "• Much better translation: Google Translate (offline translation stays as backup)\n• \u0027G\u0027 badge shows which messages Google translated",
-                   "date":  "2026-09-27T16:00:18Z",
+                   "version":  "0.2.10",
+                   "notes":  "• Chinese interface: our buttons, filters, times and labels are in Chinese too\n• Customer messages are translated into your language (Chinese agents get Chinese)\n• Customers without a name show their name in the list\n• Canned messages: typing /top finds /super_top_strap (search)\n• Better Google translation of whole sentences",
+                   "date":  "2026-09-27T16:45:58Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.9/PimaxSupportSystem_Setup_v0.2.9.exe",
-                                   "sha256":  "687ffd86e1cc34deab51f297ca3f5de4c9234c2f2d03dd0f68a240bc34351143"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.10/PimaxSupportSystem_Setup_v0.2.10.exe",
+                                   "sha256":  "c6ca39453050e34d98cd3d6605736c9fbdfd6f3619e992808a9bc1bba1364b3e"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.9/PimaxSupportSystem_v0.2.9.apk",
-                                   "sha256":  "48059447973130dad45a94c56573f97bcf5aa417bfa8c1208d82c13b1074f0df"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.10/PimaxSupportSystem_v0.2.10.apk",
+                                   "sha256":  "922e7674d716c5392304e7c9ab301c64ee4c9247240d2f2d7b0b705b8b7e19aa"
                                }
                },
     "releases":  {
@@ -91,6 +91,19 @@
                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.9/PimaxSupportSystem_v0.2.9.apk",
                                                    "sha256":  "48059447973130dad45a94c56573f97bcf5aa417bfa8c1208d82c13b1074f0df"
                                                }
-                               }
+                               },
+                     "0.2.10":  {
+                                    "version":  "0.2.10",
+                                    "notes":  "• Chinese interface: our buttons, filters, times and labels are in Chinese too\n• Customer messages are translated into your language (Chinese agents get Chinese)\n• Customers without a name show their name in the list\n• Canned messages: typing /top finds /super_top_strap (search)\n• Better Google translation of whole sentences",
+                                    "date":  "2026-09-27T16:45:58Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.10/PimaxSupportSystem_Setup_v0.2.10.exe",
+                                                    "sha256":  "c6ca39453050e34d98cd3d6605736c9fbdfd6f3619e992808a9bc1bba1364b3e"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.10/PimaxSupportSystem_v0.2.10.apk",
+                                                    "sha256":  "922e7674d716c5392304e7c9ab301c64ee4c9247240d2f2d7b0b705b8b7e19aa"
+                                                }
+                                }
                  }
 }
