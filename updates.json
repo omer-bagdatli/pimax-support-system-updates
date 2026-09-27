@@ -1,16 +1,16 @@
 {
     "schema":  1,
     "public":  {
-                   "version":  "0.2.6",
-                   "notes":  "• Your settings and canned messages are saved to your account and shared between your apps (Windows + phone)\n• New-conversation sound no longer repeats for customers without a name\n• Canned Messages: the list can be scrolled back up after adding a message",
-                   "date":  "2026-09-25T18:49:08Z",
+                   "version":  "0.2.8",
+                   "notes":  "• Fixed: \u0027Message not sent\u0027 warning appeared for messages that were sent (translated messages)\n• Fixed: replies containing the ticket link were treated as bot messages, so the customer kept ringing as unanswered\n• Freshchat Resolve in the Edit menu",
+                   "date":  "2026-09-27T14:20:09Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.6/PimaxSupportSystem_Setup_v0.2.6.exe",
-                                   "sha256":  "bcf9ff26c05124d01273e3adf73e20a2a085837bf98dd16a9cebe09a1e938e5c"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.8/PimaxSupportSystem_Setup_v0.2.8.exe",
+                                   "sha256":  "868c589696fdb52a2252da7020a9a5f9375602636ea802e13fdac1fc8d6d77fd"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.6/PimaxSupportSystem_v0.2.6.apk",
-                                   "sha256":  "6242503bcc6637a4146bc3552f718f6677f8e6bd28cfc4ddfd3e01546020ff81"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.8/PimaxSupportSystem_v0.2.8.apk",
+                                   "sha256":  "2a50f55ba7314964490528ed5b204216d6d5c50620b484a6cb1bf376004d2d86"
                                }
                },
     "latest":  {
