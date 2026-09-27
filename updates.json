@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.17",
-                   "notes":  "Read-by agents in chat, redesigned contact info, typing glow, glowing update badge. Phone: Vibrate setting, sounds at notification volume.",
-                   "date":  "2026-09-27T19:27:44Z",
+                   "version":  "0.2.18",
+                   "notes":  "22 new arrival and heartbeat sounds. Tap a sound to hear it, then Select.",
+                   "date":  "2026-09-27T20:18:13Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_Setup_v0.2.17.exe",
-                                   "sha256":  "146cac0e474fad7e0bc8a1313574c59a1420f7be10079b228573ed3ae5ccec15"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.18/PimaxSupportSystem_Setup_v0.2.18.exe",
+                                   "sha256":  "af0266215ac49c21b34a5b8cd20576a703a111001e30cba4abc0de489c99782b"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_v0.2.17.apk",
-                                   "sha256":  "ea260b8396071702b0bc33a35d80f1ac394629c8b3e935fa8a4e99419c51e12b"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.18/PimaxSupportSystem_v0.2.18.apk",
+                                   "sha256":  "164afa453d0cae849cf28d88bf7d8b56a33ce01b5e542635244eb2c202f9c7a2"
                                }
                },
     "releases":  {
@@ -168,6 +168,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_v0.2.17.apk",
                                                     "sha256":  "ea260b8396071702b0bc33a35d80f1ac394629c8b3e935fa8a4e99419c51e12b"
+                                                }
+                                },
+                     "0.2.18":  {
+                                    "version":  "0.2.18",
+                                    "notes":  "22 new arrival and heartbeat sounds. Tap a sound to hear it, then Select.",
+                                    "date":  "2026-09-27T20:18:13Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.18/PimaxSupportSystem_Setup_v0.2.18.exe",
+                                                    "sha256":  "af0266215ac49c21b34a5b8cd20576a703a111001e30cba4abc0de489c99782b"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.18/PimaxSupportSystem_v0.2.18.apk",
+                                                    "sha256":  "164afa453d0cae849cf28d88bf7d8b56a33ce01b5e542635244eb2c202f9c7a2"
                                                 }
                                 }
                  }
