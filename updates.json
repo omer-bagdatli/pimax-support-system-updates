@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.12",
-                   "notes":  "A conversation stays waiting until an agent replies; bot and system messages no longer count as an answer.",
-                   "date":  "2026-09-27T17:23:19Z",
+                   "version":  "0.2.13",
+                   "notes":  "Shows when a customer is typing (from Freshchat), in the conversation list and in the chat.",
+                   "date":  "2026-09-27T18:01:55Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_Setup_v0.2.12.exe",
-                                   "sha256":  "9f8b07fabb6695495387432416144243112ee136d34da66f1fff6c7c0a8f1856"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.13/PimaxSupportSystem_Setup_v0.2.13.exe",
+                                   "sha256":  "3adfc0166dab24f867b200417759f089696ea62428cb5754a2c9db3eca2407b8"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_v0.2.12.apk",
-                                   "sha256":  "86f2fa75d26583c5fab833384d4b8d30b8453f28650a3c103dc1c0613878d4d9"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.13/PimaxSupportSystem_v0.2.13.apk",
+                                   "sha256":  "9423ce869d60aa18e6559d3d562134ac3f78925d75d523aee901c038bd29c133"
                                }
                },
     "releases":  {
@@ -129,6 +129,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_v0.2.12.apk",
                                                     "sha256":  "86f2fa75d26583c5fab833384d4b8d30b8453f28650a3c103dc1c0613878d4d9"
+                                                }
+                                },
+                     "0.2.13":  {
+                                    "version":  "0.2.13",
+                                    "notes":  "Shows when a customer is typing (from Freshchat), in the conversation list and in the chat.",
+                                    "date":  "2026-09-27T18:01:55Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.13/PimaxSupportSystem_Setup_v0.2.13.exe",
+                                                    "sha256":  "3adfc0166dab24f867b200417759f089696ea62428cb5754a2c9db3eca2407b8"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.13/PimaxSupportSystem_v0.2.13.apk",
+                                                    "sha256":  "9423ce869d60aa18e6559d3d562134ac3f78925d75d523aee901c038bd29c133"
                                                 }
                                 }
                  }
