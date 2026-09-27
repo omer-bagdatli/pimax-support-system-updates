@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.19",
-                   "notes":  "Freshchat private notes: see them in yellow, write them with the Private note mode next to + Add.",
-                   "date":  "2026-09-27T20:50:07Z",
+                   "version":  "0.2.20",
+                   "notes":  "Private notes now appear in the chat in time order; Private Note selector left of + Add.",
+                   "date":  "2026-09-27T21:12:57Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.19/PimaxSupportSystem_Setup_v0.2.19.exe",
-                                   "sha256":  "41c05fbb88f422e9877f35bf9ad9361bc1fd4cb3a28e3c4f8b0972ca385e09c1"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_Setup_v0.2.20.exe",
+                                   "sha256":  "93d82c494998b4240ebcecb793130a8954e53829d9c1b8872331bdf2e37c7398"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.19/PimaxSupportSystem_v0.2.19.apk",
-                                   "sha256":  "60aeed2c7ccc34695b5e50e0ec15aed8f3b368fe9699efb6d4ea3762b02749ae"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_v0.2.20.apk",
+                                   "sha256":  "9ac00991e574e90595f5c2d09ab0e57f967441fef1cfec47428e7ea071fffdd4"
                                }
                },
     "releases":  {
@@ -194,6 +194,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.19/PimaxSupportSystem_v0.2.19.apk",
                                                     "sha256":  "60aeed2c7ccc34695b5e50e0ec15aed8f3b368fe9699efb6d4ea3762b02749ae"
+                                                }
+                                },
+                     "0.2.20":  {
+                                    "version":  "0.2.20",
+                                    "notes":  "Private notes now appear in the chat in time order; Private Note selector left of + Add.",
+                                    "date":  "2026-09-27T21:12:57Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_Setup_v0.2.20.exe",
+                                                    "sha256":  "93d82c494998b4240ebcecb793130a8954e53829d9c1b8872331bdf2e37c7398"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_v0.2.20.apk",
+                                                    "sha256":  "9ac00991e574e90595f5c2d09ab0e57f967441fef1cfec47428e7ea071fffdd4"
                                                 }
                                 }
                  }
