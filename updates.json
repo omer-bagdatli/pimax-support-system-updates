@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.18",
-                   "notes":  "22 new arrival and heartbeat sounds. Tap a sound to hear it, then Select.",
-                   "date":  "2026-09-27T20:18:13Z",
+                   "version":  "0.2.19",
+                   "notes":  "Freshchat private notes: see them in yellow, write them with the Private note mode next to + Add.",
+                   "date":  "2026-09-27T20:50:07Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.18/PimaxSupportSystem_Setup_v0.2.18.exe",
-                                   "sha256":  "af0266215ac49c21b34a5b8cd20576a703a111001e30cba4abc0de489c99782b"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.19/PimaxSupportSystem_Setup_v0.2.19.exe",
+                                   "sha256":  "41c05fbb88f422e9877f35bf9ad9361bc1fd4cb3a28e3c4f8b0972ca385e09c1"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.18/PimaxSupportSystem_v0.2.18.apk",
-                                   "sha256":  "164afa453d0cae849cf28d88bf7d8b56a33ce01b5e542635244eb2c202f9c7a2"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.19/PimaxSupportSystem_v0.2.19.apk",
+                                   "sha256":  "60aeed2c7ccc34695b5e50e0ec15aed8f3b368fe9699efb6d4ea3762b02749ae"
                                }
                },
     "releases":  {
@@ -181,6 +181,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.18/PimaxSupportSystem_v0.2.18.apk",
                                                     "sha256":  "164afa453d0cae849cf28d88bf7d8b56a33ce01b5e542635244eb2c202f9c7a2"
+                                                }
+                                },
+                     "0.2.19":  {
+                                    "version":  "0.2.19",
+                                    "notes":  "Freshchat private notes: see them in yellow, write them with the Private note mode next to + Add.",
+                                    "date":  "2026-09-27T20:50:07Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.19/PimaxSupportSystem_Setup_v0.2.19.exe",
+                                                    "sha256":  "41c05fbb88f422e9877f35bf9ad9361bc1fd4cb3a28e3c4f8b0972ca385e09c1"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.19/PimaxSupportSystem_v0.2.19.apk",
+                                                    "sha256":  "60aeed2c7ccc34695b5e50e0ec15aed8f3b368fe9699efb6d4ea3762b02749ae"
                                                 }
                                 }
                  }
