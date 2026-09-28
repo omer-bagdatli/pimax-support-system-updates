@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.24",
-                   "notes":  "Phone messages look like desktop (no card around each message). Fixed a crash in the Freshchat sign-in window.",
-                   "date":  "2026-09-28T15:48:29Z",
+                   "version":  "0.2.25",
+                   "notes":  "Phone: green Agent Online, Conversations tab lights up for new messages elsewhere, stronger vibration.",
+                   "date":  "2026-09-28T16:18:37Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.24/PimaxSupportSystem_Setup_v0.2.24.exe",
-                                   "sha256":  "5dae650c6cc7afda8e7818d4c9d3efdc93c433a5e5b2185a7390cde98dc49c17"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.25/PimaxSupportSystem_Setup_v0.2.25.exe",
+                                   "sha256":  "954ea1cc9ef48a2753454f7a849b4c21d4542ec6a1dd89c4fb6c2f0cf818ce8c"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.24/PimaxSupportSystem_v0.2.24.apk",
-                                   "sha256":  "469e5390d6aa9cc345cf8a650ac69fbc0ef46b35f8eca3687cae58889e8bc3f3"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.25/PimaxSupportSystem_v0.2.25.apk",
+                                   "sha256":  "945f69e59ba7fb2b399de69ee8a727c01db9a7fc132514afd16414b37d5cb73f"
                                }
                },
     "releases":  {
@@ -259,6 +259,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.24/PimaxSupportSystem_v0.2.24.apk",
                                                     "sha256":  "469e5390d6aa9cc345cf8a650ac69fbc0ef46b35f8eca3687cae58889e8bc3f3"
+                                                }
+                                },
+                     "0.2.25":  {
+                                    "version":  "0.2.25",
+                                    "notes":  "Phone: green Agent Online, Conversations tab lights up for new messages elsewhere, stronger vibration.",
+                                    "date":  "2026-09-28T16:18:37Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.25/PimaxSupportSystem_Setup_v0.2.25.exe",
+                                                    "sha256":  "954ea1cc9ef48a2753454f7a849b4c21d4542ec6a1dd89c4fb6c2f0cf818ce8c"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.25/PimaxSupportSystem_v0.2.25.apk",
+                                                    "sha256":  "945f69e59ba7fb2b399de69ee8a727c01db9a7fc132514afd16414b37d5cb73f"
                                                 }
                                 }
                  }
