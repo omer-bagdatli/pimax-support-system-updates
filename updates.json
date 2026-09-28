@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.27",
-                   "notes":  "Phone: conversation list no longer above the chat, green Agent Online, previous-conversations bar back.",
-                   "date":  "2026-09-28T16:42:35Z",
+                   "version":  "0.2.28",
+                   "notes":  "Filter dropdowns open on top; tidier filter panel; phone read receipts no longer overlap text.",
+                   "date":  "2026-09-28T16:57:16Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.27/PimaxSupportSystem_Setup_v0.2.27.exe",
-                                   "sha256":  "ecba4ff301fb7ace1b5e92d6a4adc40dd1ad973cfb2c961bdf9d57c84360363f"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.28/PimaxSupportSystem_Setup_v0.2.28.exe",
+                                   "sha256":  "0a4862e7248ee5037331c8c7a19ba0a9b5a11310b8effaa874ceabcc30031f7a"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.27/PimaxSupportSystem_v0.2.27.apk",
-                                   "sha256":  "bf022874c1ab3d23ffd0df7c3a74052f9bf33694a6d2b8cd705af19f444e14b1"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.28/PimaxSupportSystem_v0.2.28.apk",
+                                   "sha256":  "1c011d9aa42419ef8d275f57d76b02c359f86687e9a64e874d31fdb0a72b40f8"
                                }
                },
     "releases":  {
@@ -298,6 +298,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.27/PimaxSupportSystem_v0.2.27.apk",
                                                     "sha256":  "bf022874c1ab3d23ffd0df7c3a74052f9bf33694a6d2b8cd705af19f444e14b1"
+                                                }
+                                },
+                     "0.2.28":  {
+                                    "version":  "0.2.28",
+                                    "notes":  "Filter dropdowns open on top; tidier filter panel; phone read receipts no longer overlap text.",
+                                    "date":  "2026-09-28T16:57:16Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.28/PimaxSupportSystem_Setup_v0.2.28.exe",
+                                                    "sha256":  "0a4862e7248ee5037331c8c7a19ba0a9b5a11310b8effaa874ceabcc30031f7a"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.28/PimaxSupportSystem_v0.2.28.apk",
+                                                    "sha256":  "1c011d9aa42419ef8d275f57d76b02c359f86687e9a64e874d31fdb0a72b40f8"
                                                 }
                                 }
                  }
