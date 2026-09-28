@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.30",
-                   "notes":  "Animations, waiting-conversation glow, chosen sounds on the phone in the background, waiting count on the phone, tidier contact info.",
-                   "date":  "2026-09-28T17:38:33Z",
+                   "version":  "0.2.31",
+                   "notes":  "Phone: Status, Priority, Group and Agent dropdowns work again (no keyboard).",
+                   "date":  "2026-09-28T17:50:15Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.30/PimaxSupportSystem_Setup_v0.2.30.exe",
-                                   "sha256":  "d5377fae7d1699b0fb2b4712961dbf008f35acf1fac50526a6b23609a1a54404"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.31/PimaxSupportSystem_Setup_v0.2.31.exe",
+                                   "sha256":  "4079c8b54dc6518078da9837880ac3f04fe564261b6c7d7e670ec6010bb11a5b"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.30/PimaxSupportSystem_v0.2.30.apk",
-                                   "sha256":  "f76c6bbf6c2fd0c51ce4e542d1abc19be17987382949e16a7419a44d4ec66cfc"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.31/PimaxSupportSystem_v0.2.31.apk",
+                                   "sha256":  "8d13b0775ba36b29a512235722292c75d288c640d1b84c4123699c8e384b99c3"
                                }
                },
     "releases":  {
@@ -337,6 +337,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.30/PimaxSupportSystem_v0.2.30.apk",
                                                     "sha256":  "f76c6bbf6c2fd0c51ce4e542d1abc19be17987382949e16a7419a44d4ec66cfc"
+                                                }
+                                },
+                     "0.2.31":  {
+                                    "version":  "0.2.31",
+                                    "notes":  "Phone: Status, Priority, Group and Agent dropdowns work again (no keyboard).",
+                                    "date":  "2026-09-28T17:50:15Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.31/PimaxSupportSystem_Setup_v0.2.31.exe",
+                                                    "sha256":  "4079c8b54dc6518078da9837880ac3f04fe564261b6c7d7e670ec6010bb11a5b"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.31/PimaxSupportSystem_v0.2.31.apk",
+                                                    "sha256":  "8d13b0775ba36b29a512235722292c75d288c640d1b84c4123699c8e384b99c3"
                                                 }
                                 }
                  }
