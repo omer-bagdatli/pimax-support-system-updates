@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.20",
-                   "notes":  "Private notes now appear in the chat in time order; Private Note selector left of + Add.",
-                   "date":  "2026-09-27T21:12:57Z",
+                   "version":  "0.2.21",
+                   "notes":  "Translation follows customers who switch language mid-chat.",
+                   "date":  "2026-09-28T14:44:45Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_Setup_v0.2.20.exe",
-                                   "sha256":  "93d82c494998b4240ebcecb793130a8954e53829d9c1b8872331bdf2e37c7398"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.21/PimaxSupportSystem_Setup_v0.2.21.exe",
+                                   "sha256":  "1a70e88330a626540aa9cd48b87a20c6759d6fdd4f6386bec4efd0c2b4bca537"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_v0.2.20.apk",
-                                   "sha256":  "9ac00991e574e90595f5c2d09ab0e57f967441fef1cfec47428e7ea071fffdd4"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.21/PimaxSupportSystem_v0.2.21.apk",
+                                   "sha256":  "af777dff607abd147b62eaa7d0595a03baf85dbd677b4d85d471c940a3d46b44"
                                }
                },
     "releases":  {
@@ -207,6 +207,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_v0.2.20.apk",
                                                     "sha256":  "9ac00991e574e90595f5c2d09ab0e57f967441fef1cfec47428e7ea071fffdd4"
+                                                }
+                                },
+                     "0.2.21":  {
+                                    "version":  "0.2.21",
+                                    "notes":  "Translation follows customers who switch language mid-chat.",
+                                    "date":  "2026-09-28T14:44:45Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.21/PimaxSupportSystem_Setup_v0.2.21.exe",
+                                                    "sha256":  "1a70e88330a626540aa9cd48b87a20c6759d6fdd4f6386bec4efd0c2b4bca537"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.21/PimaxSupportSystem_v0.2.21.apk",
+                                                    "sha256":  "af777dff607abd147b62eaa7d0595a03baf85dbd677b4d85d471c940a3d46b44"
                                                 }
                                 }
                  }
