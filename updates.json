@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.23",
-                   "notes":  "Contact info shows the graphics card, never the processor.",
-                   "date":  "2026-09-28T15:32:00Z",
+                   "version":  "0.2.24",
+                   "notes":  "Phone messages look like desktop (no card around each message). Fixed a crash in the Freshchat sign-in window.",
+                   "date":  "2026-09-28T15:48:29Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.23/PimaxSupportSystem_Setup_v0.2.23.exe",
-                                   "sha256":  "df071b3800ca022c0625ee37754979d570f665a77c703e76e208fed1c3be8f04"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.24/PimaxSupportSystem_Setup_v0.2.24.exe",
+                                   "sha256":  "5dae650c6cc7afda8e7818d4c9d3efdc93c433a5e5b2185a7390cde98dc49c17"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.23/PimaxSupportSystem_v0.2.23.apk",
-                                   "sha256":  "db1ea349c690fd1d0dc1304fa0646f34895cc0c9d2740e17c1a3ca57b2bcfb93"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.24/PimaxSupportSystem_v0.2.24.apk",
+                                   "sha256":  "469e5390d6aa9cc345cf8a650ac69fbc0ef46b35f8eca3687cae58889e8bc3f3"
                                }
                },
     "releases":  {
@@ -246,6 +246,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.23/PimaxSupportSystem_v0.2.23.apk",
                                                     "sha256":  "db1ea349c690fd1d0dc1304fa0646f34895cc0c9d2740e17c1a3ca57b2bcfb93"
+                                                }
+                                },
+                     "0.2.24":  {
+                                    "version":  "0.2.24",
+                                    "notes":  "Phone messages look like desktop (no card around each message). Fixed a crash in the Freshchat sign-in window.",
+                                    "date":  "2026-09-28T15:48:29Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.24/PimaxSupportSystem_Setup_v0.2.24.exe",
+                                                    "sha256":  "5dae650c6cc7afda8e7818d4c9d3efdc93c433a5e5b2185a7390cde98dc49c17"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.24/PimaxSupportSystem_v0.2.24.apk",
+                                                    "sha256":  "469e5390d6aa9cc345cf8a650ac69fbc0ef46b35f8eca3687cae58889e8bc3f3"
                                                 }
                                 }
                  }
