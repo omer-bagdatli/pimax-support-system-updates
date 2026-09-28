@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.29",
-                   "notes":  "Custom filters: shown by name when selected, listed under Custom like the other filters.",
-                   "date":  "2026-09-28T17:08:17Z",
+                   "version":  "0.2.30",
+                   "notes":  "Animations, waiting-conversation glow, chosen sounds on the phone in the background, waiting count on the phone, tidier contact info.",
+                   "date":  "2026-09-28T17:38:33Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.29/PimaxSupportSystem_Setup_v0.2.29.exe",
-                                   "sha256":  "f5567b927bf123dec4f0a0f314b87180d9e04696e8eb967e907f7c74debcc050"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.30/PimaxSupportSystem_Setup_v0.2.30.exe",
+                                   "sha256":  "d5377fae7d1699b0fb2b4712961dbf008f35acf1fac50526a6b23609a1a54404"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.29/PimaxSupportSystem_v0.2.29.apk",
-                                   "sha256":  "97245ab7c2a54a8fd87f018da1d08197276ee49c39ba146c4a960bbfbf2079a7"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.30/PimaxSupportSystem_v0.2.30.apk",
+                                   "sha256":  "f76c6bbf6c2fd0c51ce4e542d1abc19be17987382949e16a7419a44d4ec66cfc"
                                }
                },
     "releases":  {
@@ -324,6 +324,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.29/PimaxSupportSystem_v0.2.29.apk",
                                                     "sha256":  "97245ab7c2a54a8fd87f018da1d08197276ee49c39ba146c4a960bbfbf2079a7"
+                                                }
+                                },
+                     "0.2.30":  {
+                                    "version":  "0.2.30",
+                                    "notes":  "Animations, waiting-conversation glow, chosen sounds on the phone in the background, waiting count on the phone, tidier contact info.",
+                                    "date":  "2026-09-28T17:38:33Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.30/PimaxSupportSystem_Setup_v0.2.30.exe",
+                                                    "sha256":  "d5377fae7d1699b0fb2b4712961dbf008f35acf1fac50526a6b23609a1a54404"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.30/PimaxSupportSystem_v0.2.30.apk",
+                                                    "sha256":  "f76c6bbf6c2fd0c51ce4e542d1abc19be17987382949e16a7419a44d4ec66cfc"
                                                 }
                                 }
                  }
