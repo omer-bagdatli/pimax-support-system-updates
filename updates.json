@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.28",
-                   "notes":  "Filter dropdowns open on top; tidier filter panel; phone read receipts no longer overlap text.",
-                   "date":  "2026-09-28T16:57:16Z",
+                   "version":  "0.2.29",
+                   "notes":  "Custom filters: shown by name when selected, listed under Custom like the other filters.",
+                   "date":  "2026-09-28T17:08:17Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.28/PimaxSupportSystem_Setup_v0.2.28.exe",
-                                   "sha256":  "0a4862e7248ee5037331c8c7a19ba0a9b5a11310b8effaa874ceabcc30031f7a"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.29/PimaxSupportSystem_Setup_v0.2.29.exe",
+                                   "sha256":  "f5567b927bf123dec4f0a0f314b87180d9e04696e8eb967e907f7c74debcc050"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.28/PimaxSupportSystem_v0.2.28.apk",
-                                   "sha256":  "1c011d9aa42419ef8d275f57d76b02c359f86687e9a64e874d31fdb0a72b40f8"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.29/PimaxSupportSystem_v0.2.29.apk",
+                                   "sha256":  "97245ab7c2a54a8fd87f018da1d08197276ee49c39ba146c4a960bbfbf2079a7"
                                }
                },
     "releases":  {
@@ -311,6 +311,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.28/PimaxSupportSystem_v0.2.28.apk",
                                                     "sha256":  "1c011d9aa42419ef8d275f57d76b02c359f86687e9a64e874d31fdb0a72b40f8"
+                                                }
+                                },
+                     "0.2.29":  {
+                                    "version":  "0.2.29",
+                                    "notes":  "Custom filters: shown by name when selected, listed under Custom like the other filters.",
+                                    "date":  "2026-09-28T17:08:17Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.29/PimaxSupportSystem_Setup_v0.2.29.exe",
+                                                    "sha256":  "f5567b927bf123dec4f0a0f314b87180d9e04696e8eb967e907f7c74debcc050"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.29/PimaxSupportSystem_v0.2.29.apk",
+                                                    "sha256":  "97245ab7c2a54a8fd87f018da1d08197276ee49c39ba146c4a960bbfbf2079a7"
                                                 }
                                 }
                  }
