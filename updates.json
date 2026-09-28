@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.31",
-                   "notes":  "Phone: Status, Priority, Group and Agent dropdowns work again (no keyboard).",
-                   "date":  "2026-09-28T17:50:15Z",
+                   "version":  "0.2.32",
+                   "notes":  "Private notes no longer shown twice; phone Conversations tab pulses.",
+                   "date":  "2026-09-28T18:11:41Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.31/PimaxSupportSystem_Setup_v0.2.31.exe",
-                                   "sha256":  "4079c8b54dc6518078da9837880ac3f04fe564261b6c7d7e670ec6010bb11a5b"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_Setup_v0.2.32.exe",
+                                   "sha256":  "0e8bb83b7d02aaaf0815e4660a46ded7b99b81c10bb14a353dda83d9a646e523"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.31/PimaxSupportSystem_v0.2.31.apk",
-                                   "sha256":  "8d13b0775ba36b29a512235722292c75d288c640d1b84c4123699c8e384b99c3"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_v0.2.32.apk",
+                                   "sha256":  "88fc5c48233beffebb79947310ddef8140f267a05abd3ca29b2624c071edea36"
                                }
                },
     "releases":  {
@@ -350,6 +350,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.31/PimaxSupportSystem_v0.2.31.apk",
                                                     "sha256":  "8d13b0775ba36b29a512235722292c75d288c640d1b84c4123699c8e384b99c3"
+                                                }
+                                },
+                     "0.2.32":  {
+                                    "version":  "0.2.32",
+                                    "notes":  "Private notes no longer shown twice; phone Conversations tab pulses.",
+                                    "date":  "2026-09-28T18:11:41Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_Setup_v0.2.32.exe",
+                                                    "sha256":  "0e8bb83b7d02aaaf0815e4660a46ded7b99b81c10bb14a353dda83d9a646e523"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_v0.2.32.apk",
+                                                    "sha256":  "88fc5c48233beffebb79947310ddef8140f267a05abd3ca29b2624c071edea36"
                                                 }
                                 }
                  }
