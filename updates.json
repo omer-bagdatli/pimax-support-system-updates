@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.26",
-                   "notes":  "Phone: fixed conversation list showing above the chat.",
-                   "date":  "2026-09-28T16:28:20Z",
+                   "version":  "0.2.27",
+                   "notes":  "Phone: conversation list no longer above the chat, green Agent Online, previous-conversations bar back.",
+                   "date":  "2026-09-28T16:42:35Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.26/PimaxSupportSystem_Setup_v0.2.26.exe",
-                                   "sha256":  "e8c42571528f3d94ca431938a6fd72de50a1306d60eb2c8feda7b80d41f366a8"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.27/PimaxSupportSystem_Setup_v0.2.27.exe",
+                                   "sha256":  "ecba4ff301fb7ace1b5e92d6a4adc40dd1ad973cfb2c961bdf9d57c84360363f"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.26/PimaxSupportSystem_v0.2.26.apk",
-                                   "sha256":  "f70d10ceb1ca7f045f0f69bb1532a309afea87674ef7c8c77d51dcb8614db48f"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.27/PimaxSupportSystem_v0.2.27.apk",
+                                   "sha256":  "bf022874c1ab3d23ffd0df7c3a74052f9bf33694a6d2b8cd705af19f444e14b1"
                                }
                },
     "releases":  {
@@ -285,6 +285,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.26/PimaxSupportSystem_v0.2.26.apk",
                                                     "sha256":  "f70d10ceb1ca7f045f0f69bb1532a309afea87674ef7c8c77d51dcb8614db48f"
+                                                }
+                                },
+                     "0.2.27":  {
+                                    "version":  "0.2.27",
+                                    "notes":  "Phone: conversation list no longer above the chat, green Agent Online, previous-conversations bar back.",
+                                    "date":  "2026-09-28T16:42:35Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.27/PimaxSupportSystem_Setup_v0.2.27.exe",
+                                                    "sha256":  "ecba4ff301fb7ace1b5e92d6a4adc40dd1ad973cfb2c961bdf9d57c84360363f"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.27/PimaxSupportSystem_v0.2.27.apk",
+                                                    "sha256":  "bf022874c1ab3d23ffd0df7c3a74052f9bf33694a6d2b8cd705af19f444e14b1"
                                                 }
                                 }
                  }
