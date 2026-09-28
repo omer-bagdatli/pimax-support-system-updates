@@ -1,16 +1,16 @@
 {
     "schema":  1,
     "public":  {
-                   "version":  "0.2.20",
-                   "notes":  "Private notes now appear in the chat in time order; Private Note selector left of + Add.",
-                   "date":  "2026-09-27T21:12:57Z",
+                   "version":  "0.2.32",
+                   "notes":  "Private notes no longer shown twice; phone Conversations tab pulses.",
+                   "date":  "2026-09-28T18:11:41Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_Setup_v0.2.20.exe",
-                                   "sha256":  "93d82c494998b4240ebcecb793130a8954e53829d9c1b8872331bdf2e37c7398"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_Setup_v0.2.32.exe",
+                                   "sha256":  "0e8bb83b7d02aaaf0815e4660a46ded7b99b81c10bb14a353dda83d9a646e523"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_v0.2.20.apk",
-                                   "sha256":  "9ac00991e574e90595f5c2d09ab0e57f967441fef1cfec47428e7ea071fffdd4"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_v0.2.32.apk",
+                                   "sha256":  "88fc5c48233beffebb79947310ddef8140f267a05abd3ca29b2624c071edea36"
                                }
                },
     "latest":  {
