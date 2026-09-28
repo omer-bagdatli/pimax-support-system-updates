@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.22",
-                   "notes":  "Phone: new-customer alert while chatting, more room when typing, slimmer tabs, compact messages.",
-                   "date":  "2026-09-28T14:54:54Z",
+                   "version":  "0.2.23",
+                   "notes":  "Contact info shows the graphics card, never the processor.",
+                   "date":  "2026-09-28T15:32:00Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.22/PimaxSupportSystem_Setup_v0.2.22.exe",
-                                   "sha256":  "7492f9dad02b8d0c4c215a832a4b160ea10ff82a292d7ca12f156f8771fa7a3d"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.23/PimaxSupportSystem_Setup_v0.2.23.exe",
+                                   "sha256":  "df071b3800ca022c0625ee37754979d570f665a77c703e76e208fed1c3be8f04"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.22/PimaxSupportSystem_v0.2.22.apk",
-                                   "sha256":  "5f142958cd43d05b65935ddf3bda499a40d78aaa2ab1a22d03e7d2d87be80476"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.23/PimaxSupportSystem_v0.2.23.apk",
+                                   "sha256":  "db1ea349c690fd1d0dc1304fa0646f34895cc0c9d2740e17c1a3ca57b2bcfb93"
                                }
                },
     "releases":  {
@@ -233,6 +233,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.22/PimaxSupportSystem_v0.2.22.apk",
                                                     "sha256":  "5f142958cd43d05b65935ddf3bda499a40d78aaa2ab1a22d03e7d2d87be80476"
+                                                }
+                                },
+                     "0.2.23":  {
+                                    "version":  "0.2.23",
+                                    "notes":  "Contact info shows the graphics card, never the processor.",
+                                    "date":  "2026-09-28T15:32:00Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.23/PimaxSupportSystem_Setup_v0.2.23.exe",
+                                                    "sha256":  "df071b3800ca022c0625ee37754979d570f665a77c703e76e208fed1c3be8f04"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.23/PimaxSupportSystem_v0.2.23.apk",
+                                                    "sha256":  "db1ea349c690fd1d0dc1304fa0646f34895cc0c9d2740e17c1a3ca57b2bcfb93"
                                                 }
                                 }
                  }
