@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.25",
-                   "notes":  "Phone: green Agent Online, Conversations tab lights up for new messages elsewhere, stronger vibration.",
-                   "date":  "2026-09-28T16:18:37Z",
+                   "version":  "0.2.26",
+                   "notes":  "Phone: fixed conversation list showing above the chat.",
+                   "date":  "2026-09-28T16:28:20Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.25/PimaxSupportSystem_Setup_v0.2.25.exe",
-                                   "sha256":  "954ea1cc9ef48a2753454f7a849b4c21d4542ec6a1dd89c4fb6c2f0cf818ce8c"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.26/PimaxSupportSystem_Setup_v0.2.26.exe",
+                                   "sha256":  "e8c42571528f3d94ca431938a6fd72de50a1306d60eb2c8feda7b80d41f366a8"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.25/PimaxSupportSystem_v0.2.25.apk",
-                                   "sha256":  "945f69e59ba7fb2b399de69ee8a727c01db9a7fc132514afd16414b37d5cb73f"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.26/PimaxSupportSystem_v0.2.26.apk",
+                                   "sha256":  "f70d10ceb1ca7f045f0f69bb1532a309afea87674ef7c8c77d51dcb8614db48f"
                                }
                },
     "releases":  {
@@ -272,6 +272,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.25/PimaxSupportSystem_v0.2.25.apk",
                                                     "sha256":  "945f69e59ba7fb2b399de69ee8a727c01db9a7fc132514afd16414b37d5cb73f"
+                                                }
+                                },
+                     "0.2.26":  {
+                                    "version":  "0.2.26",
+                                    "notes":  "Phone: fixed conversation list showing above the chat.",
+                                    "date":  "2026-09-28T16:28:20Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.26/PimaxSupportSystem_Setup_v0.2.26.exe",
+                                                    "sha256":  "e8c42571528f3d94ca431938a6fd72de50a1306d60eb2c8feda7b80d41f366a8"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.26/PimaxSupportSystem_v0.2.26.apk",
+                                                    "sha256":  "f70d10ceb1ca7f045f0f69bb1532a309afea87674ef7c8c77d51dcb8614db48f"
                                                 }
                                 }
                  }
