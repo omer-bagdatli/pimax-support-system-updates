@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.38",
-                   "notes":  "Images and files now sit inside the message bubble, like Freshchat.",
-                   "date":  "2026-09-29T18:32:48Z",
+                   "version":  "0.2.39",
+                   "notes":  "Fix: private notes with images no longer show twice.",
+                   "date":  "2026-09-29T18:45:19Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.38/PimaxSupportSystem_Setup_v0.2.38.exe",
-                                   "sha256":  "065c048c2b914b2a133bd4bb42cc50b0f4a77b05a273c07ef0ab8a12bb5879cc"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.39/PimaxSupportSystem_Setup_v0.2.39.exe",
+                                   "sha256":  "92124627673fd450b60dd165f819f8ceacc99bce0627faa0fb064b6ef8f695ba"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.38/PimaxSupportSystem_v0.2.38.apk",
-                                   "sha256":  "29ccad54bdc4e67e8bf513d42ad1375943066091b67246577ca20695a4a36373"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.39/PimaxSupportSystem_v0.2.39.apk",
+                                   "sha256":  "140d9ee4531120ef945a1bc23d8f03aaf5ab0b5bdb8ebd4c48925982dc9e2386"
                                }
                },
     "releases":  {
@@ -441,6 +441,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.38/PimaxSupportSystem_v0.2.38.apk",
                                                     "sha256":  "29ccad54bdc4e67e8bf513d42ad1375943066091b67246577ca20695a4a36373"
+                                                }
+                                },
+                     "0.2.39":  {
+                                    "version":  "0.2.39",
+                                    "notes":  "Fix: private notes with images no longer show twice.",
+                                    "date":  "2026-09-29T18:45:19Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.39/PimaxSupportSystem_Setup_v0.2.39.exe",
+                                                    "sha256":  "92124627673fd450b60dd165f819f8ceacc99bce0627faa0fb064b6ef8f695ba"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.39/PimaxSupportSystem_v0.2.39.apk",
+                                                    "sha256":  "140d9ee4531120ef945a1bc23d8f03aaf5ab0b5bdb8ebd4c48925982dc9e2386"
                                                 }
                                 }
                  }
