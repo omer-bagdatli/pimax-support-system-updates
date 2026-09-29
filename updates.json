@@ -1,16 +1,16 @@
 {
     "schema":  1,
     "public":  {
-                   "version":  "0.2.32",
-                   "notes":  "Private notes no longer shown twice; phone Conversations tab pulses.",
-                   "date":  "2026-09-28T18:11:41Z",
+                   "version":  "0.2.34",
+                   "notes":  "Chinese interface now also covers Settings, Canned Messages and the app menus.",
+                   "date":  "2026-09-29T08:47:06Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_Setup_v0.2.32.exe",
-                                   "sha256":  "0e8bb83b7d02aaaf0815e4660a46ded7b99b81c10bb14a353dda83d9a646e523"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.34/PimaxSupportSystem_Setup_v0.2.34.exe",
+                                   "sha256":  "5a731b4f0c04487506dc583b88b5693b6715a44db3119df4ba240271f56aac15"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_v0.2.32.apk",
-                                   "sha256":  "88fc5c48233beffebb79947310ddef8140f267a05abd3ca29b2624c071edea36"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.34/PimaxSupportSystem_v0.2.34.apk",
+                                   "sha256":  "8b873c84e8a5dc44d39876ed9bc065d56e1956408024c992eb781a24be5f59fc"
                                }
                },
     "latest":  {
