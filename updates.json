@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.34",
-                   "notes":  "Chinese interface now also covers Settings, Canned Messages and the app menus.",
-                   "date":  "2026-09-29T08:47:06Z",
+                   "version":  "0.2.35",
+                   "notes":  "System and bot messages no longer stop the waiting-customer alerts.",
+                   "date":  "2026-09-29T14:18:15Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.34/PimaxSupportSystem_Setup_v0.2.34.exe",
-                                   "sha256":  "5a731b4f0c04487506dc583b88b5693b6715a44db3119df4ba240271f56aac15"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.35/PimaxSupportSystem_Setup_v0.2.35.exe",
+                                   "sha256":  "07068105627f8b37b65680d69062c82a9cf52282522f13d28bd0be943a910693"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.34/PimaxSupportSystem_v0.2.34.apk",
-                                   "sha256":  "8b873c84e8a5dc44d39876ed9bc065d56e1956408024c992eb781a24be5f59fc"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.35/PimaxSupportSystem_v0.2.35.apk",
+                                   "sha256":  "7ed4b6cb94928c75d9c6f2c332552e71d0717ffb03b0692173fca06ddbc1f720"
                                }
                },
     "releases":  {
@@ -389,6 +389,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.34/PimaxSupportSystem_v0.2.34.apk",
                                                     "sha256":  "8b873c84e8a5dc44d39876ed9bc065d56e1956408024c992eb781a24be5f59fc"
+                                                }
+                                },
+                     "0.2.35":  {
+                                    "version":  "0.2.35",
+                                    "notes":  "System and bot messages no longer stop the waiting-customer alerts.",
+                                    "date":  "2026-09-29T14:18:15Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.35/PimaxSupportSystem_Setup_v0.2.35.exe",
+                                                    "sha256":  "07068105627f8b37b65680d69062c82a9cf52282522f13d28bd0be943a910693"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.35/PimaxSupportSystem_v0.2.35.apk",
+                                                    "sha256":  "7ed4b6cb94928c75d9c6f2c332552e71d0717ffb03b0692173fca06ddbc1f720"
                                                 }
                                 }
                  }
