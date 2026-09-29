@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.36",
-                   "notes":  "Phone: Enter makes a new line; tap SEND to send.",
-                   "date":  "2026-09-29T16:04:51Z",
+                   "version":  "0.2.37",
+                   "notes":  "Private notes can hold images and files; attachments stay with their own chat; image previews in the reply box; nicer attachment cards.",
+                   "date":  "2026-09-29T17:51:13Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.36/PimaxSupportSystem_Setup_v0.2.36.exe",
-                                   "sha256":  "9cd08ea2f6c4833ae74b0f9648991fb18fac8d435fe0c4987876a2b81f59feb2"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.37/PimaxSupportSystem_Setup_v0.2.37.exe",
+                                   "sha256":  "1a232a19f1a374c10fa2bebf86848db77676320400993ace7a49c5612af49db9"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.36/PimaxSupportSystem_v0.2.36.apk",
-                                   "sha256":  "8de2606a653c60da6d5d38922c1f58a2321c50cb6a6de30cb1ebdc4ef01f4c30"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.37/PimaxSupportSystem_v0.2.37.apk",
+                                   "sha256":  "77ba6b705fc03a61b120054a66408b0c6311796967545d807dd0332b5d188bd3"
                                }
                },
     "releases":  {
@@ -415,6 +415,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.36/PimaxSupportSystem_v0.2.36.apk",
                                                     "sha256":  "8de2606a653c60da6d5d38922c1f58a2321c50cb6a6de30cb1ebdc4ef01f4c30"
+                                                }
+                                },
+                     "0.2.37":  {
+                                    "version":  "0.2.37",
+                                    "notes":  "Private notes can hold images and files; attachments stay with their own chat; image previews in the reply box; nicer attachment cards.",
+                                    "date":  "2026-09-29T17:51:13Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.37/PimaxSupportSystem_Setup_v0.2.37.exe",
+                                                    "sha256":  "1a232a19f1a374c10fa2bebf86848db77676320400993ace7a49c5612af49db9"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.37/PimaxSupportSystem_v0.2.37.apk",
+                                                    "sha256":  "77ba6b705fc03a61b120054a66408b0c6311796967545d807dd0332b5d188bd3"
                                                 }
                                 }
                  }
