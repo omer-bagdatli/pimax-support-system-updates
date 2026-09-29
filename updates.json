@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.32",
-                   "notes":  "Private notes no longer shown twice; phone Conversations tab pulses.",
-                   "date":  "2026-09-28T18:11:41Z",
+                   "version":  "0.2.33",
+                   "notes":  "Chinese: message-mode selector stays on one line.",
+                   "date":  "2026-09-29T08:30:37Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_Setup_v0.2.32.exe",
-                                   "sha256":  "0e8bb83b7d02aaaf0815e4660a46ded7b99b81c10bb14a353dda83d9a646e523"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.33/PimaxSupportSystem_Setup_v0.2.33.exe",
+                                   "sha256":  "7105b15ab5e91dcd94277a6e331e90e22edbee0f33bb9aba18f438b8bcada40e"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_v0.2.32.apk",
-                                   "sha256":  "88fc5c48233beffebb79947310ddef8140f267a05abd3ca29b2624c071edea36"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.33/PimaxSupportSystem_v0.2.33.apk",
+                                   "sha256":  "ac4e942f378736de8f8ca5b1fecc7a2834b688967be9b080f9c07ca0fc425326"
                                }
                },
     "releases":  {
@@ -363,6 +363,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_v0.2.32.apk",
                                                     "sha256":  "88fc5c48233beffebb79947310ddef8140f267a05abd3ca29b2624c071edea36"
+                                                }
+                                },
+                     "0.2.33":  {
+                                    "version":  "0.2.33",
+                                    "notes":  "Chinese: message-mode selector stays on one line.",
+                                    "date":  "2026-09-29T08:30:37Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.33/PimaxSupportSystem_Setup_v0.2.33.exe",
+                                                    "sha256":  "7105b15ab5e91dcd94277a6e331e90e22edbee0f33bb9aba18f438b8bcada40e"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.33/PimaxSupportSystem_v0.2.33.apk",
+                                                    "sha256":  "ac4e942f378736de8f8ca5b1fecc7a2834b688967be9b080f9c07ca0fc425326"
                                                 }
                                 }
                  }
