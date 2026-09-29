@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.39",
-                   "notes":  "Fix: private notes with images no longer show twice.",
-                   "date":  "2026-09-29T18:45:19Z",
+                   "version":  "0.2.40",
+                   "notes":  "Fix: Settings and Canned Messages windows no longer close by themselves.",
+                   "date":  "2026-09-29T18:51:21Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.39/PimaxSupportSystem_Setup_v0.2.39.exe",
-                                   "sha256":  "92124627673fd450b60dd165f819f8ceacc99bce0627faa0fb064b6ef8f695ba"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.40/PimaxSupportSystem_Setup_v0.2.40.exe",
+                                   "sha256":  "b4c065e1f35623239a68bbfb7f804d8357ed113fe717a37e13fac0e9d41bc2d4"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.39/PimaxSupportSystem_v0.2.39.apk",
-                                   "sha256":  "140d9ee4531120ef945a1bc23d8f03aaf5ab0b5bdb8ebd4c48925982dc9e2386"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.40/PimaxSupportSystem_v0.2.40.apk",
+                                   "sha256":  "c10ab9de65c6d6764e4306075dec442764df3a4ad66573499d40d6872851bac9"
                                }
                },
     "releases":  {
@@ -454,6 +454,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.39/PimaxSupportSystem_v0.2.39.apk",
                                                     "sha256":  "140d9ee4531120ef945a1bc23d8f03aaf5ab0b5bdb8ebd4c48925982dc9e2386"
+                                                }
+                                },
+                     "0.2.40":  {
+                                    "version":  "0.2.40",
+                                    "notes":  "Fix: Settings and Canned Messages windows no longer close by themselves.",
+                                    "date":  "2026-09-29T18:51:21Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.40/PimaxSupportSystem_Setup_v0.2.40.exe",
+                                                    "sha256":  "b4c065e1f35623239a68bbfb7f804d8357ed113fe717a37e13fac0e9d41bc2d4"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.40/PimaxSupportSystem_v0.2.40.apk",
+                                                    "sha256":  "c10ab9de65c6d6764e4306075dec442764df3a4ad66573499d40d6872851bac9"
                                                 }
                                 }
                  }
