@@ -1,16 +1,16 @@
 {
     "schema":  1,
     "public":  {
-                   "version":  "0.2.34",
-                   "notes":  "Chinese interface now also covers Settings, Canned Messages and the app menus.",
-                   "date":  "2026-09-29T08:47:06Z",
+                   "version":  "0.2.40",
+                   "notes":  "Fix: Settings and Canned Messages windows no longer close by themselves.",
+                   "date":  "2026-09-29T18:51:21Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.34/PimaxSupportSystem_Setup_v0.2.34.exe",
-                                   "sha256":  "5a731b4f0c04487506dc583b88b5693b6715a44db3119df4ba240271f56aac15"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.40/PimaxSupportSystem_Setup_v0.2.40.exe",
+                                   "sha256":  "b4c065e1f35623239a68bbfb7f804d8357ed113fe717a37e13fac0e9d41bc2d4"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.34/PimaxSupportSystem_v0.2.34.apk",
-                                   "sha256":  "8b873c84e8a5dc44d39876ed9bc065d56e1956408024c992eb781a24be5f59fc"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.40/PimaxSupportSystem_v0.2.40.apk",
+                                   "sha256":  "c10ab9de65c6d6764e4306075dec442764df3a4ad66573499d40d6872851bac9"
                                }
                },
     "latest":  {
