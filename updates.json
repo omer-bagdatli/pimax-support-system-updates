@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.37",
-                   "notes":  "Private notes can hold images and files; attachments stay with their own chat; image previews in the reply box; nicer attachment cards.",
-                   "date":  "2026-09-29T17:51:13Z",
+                   "version":  "0.2.38",
+                   "notes":  "Images and files now sit inside the message bubble, like Freshchat.",
+                   "date":  "2026-09-29T18:32:48Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.37/PimaxSupportSystem_Setup_v0.2.37.exe",
-                                   "sha256":  "1a232a19f1a374c10fa2bebf86848db77676320400993ace7a49c5612af49db9"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.38/PimaxSupportSystem_Setup_v0.2.38.exe",
+                                   "sha256":  "065c048c2b914b2a133bd4bb42cc50b0f4a77b05a273c07ef0ab8a12bb5879cc"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.37/PimaxSupportSystem_v0.2.37.apk",
-                                   "sha256":  "77ba6b705fc03a61b120054a66408b0c6311796967545d807dd0332b5d188bd3"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.38/PimaxSupportSystem_v0.2.38.apk",
+                                   "sha256":  "29ccad54bdc4e67e8bf513d42ad1375943066091b67246577ca20695a4a36373"
                                }
                },
     "releases":  {
@@ -428,6 +428,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.37/PimaxSupportSystem_v0.2.37.apk",
                                                     "sha256":  "77ba6b705fc03a61b120054a66408b0c6311796967545d807dd0332b5d188bd3"
+                                                }
+                                },
+                     "0.2.38":  {
+                                    "version":  "0.2.38",
+                                    "notes":  "Images and files now sit inside the message bubble, like Freshchat.",
+                                    "date":  "2026-09-29T18:32:48Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.38/PimaxSupportSystem_Setup_v0.2.38.exe",
+                                                    "sha256":  "065c048c2b914b2a133bd4bb42cc50b0f4a77b05a273c07ef0ab8a12bb5879cc"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.38/PimaxSupportSystem_v0.2.38.apk",
+                                                    "sha256":  "29ccad54bdc4e67e8bf513d42ad1375943066091b67246577ca20695a4a36373"
                                                 }
                                 }
                  }
