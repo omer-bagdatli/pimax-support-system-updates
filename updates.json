@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.35",
-                   "notes":  "System and bot messages no longer stop the waiting-customer alerts.",
-                   "date":  "2026-09-29T14:18:15Z",
+                   "version":  "0.2.36",
+                   "notes":  "Phone: Enter makes a new line; tap SEND to send.",
+                   "date":  "2026-09-29T16:04:51Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.35/PimaxSupportSystem_Setup_v0.2.35.exe",
-                                   "sha256":  "07068105627f8b37b65680d69062c82a9cf52282522f13d28bd0be943a910693"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.36/PimaxSupportSystem_Setup_v0.2.36.exe",
+                                   "sha256":  "9cd08ea2f6c4833ae74b0f9648991fb18fac8d435fe0c4987876a2b81f59feb2"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.35/PimaxSupportSystem_v0.2.35.apk",
-                                   "sha256":  "7ed4b6cb94928c75d9c6f2c332552e71d0717ffb03b0692173fca06ddbc1f720"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.36/PimaxSupportSystem_v0.2.36.apk",
+                                   "sha256":  "8de2606a653c60da6d5d38922c1f58a2321c50cb6a6de30cb1ebdc4ef01f4c30"
                                }
                },
     "releases":  {
@@ -402,6 +402,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.35/PimaxSupportSystem_v0.2.35.apk",
                                                     "sha256":  "7ed4b6cb94928c75d9c6f2c332552e71d0717ffb03b0692173fca06ddbc1f720"
+                                                }
+                                },
+                     "0.2.36":  {
+                                    "version":  "0.2.36",
+                                    "notes":  "Phone: Enter makes a new line; tap SEND to send.",
+                                    "date":  "2026-09-29T16:04:51Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.36/PimaxSupportSystem_Setup_v0.2.36.exe",
+                                                    "sha256":  "9cd08ea2f6c4833ae74b0f9648991fb18fac8d435fe0c4987876a2b81f59feb2"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.36/PimaxSupportSystem_v0.2.36.apk",
+                                                    "sha256":  "8de2606a653c60da6d5d38922c1f58a2321c50cb6a6de30cb1ebdc4ef01f4c30"
                                                 }
                                 }
                  }
