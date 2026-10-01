@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.42",
-                   "notes":  "Fix: new customers who waited in the queue now play the new-customer alert.",
-                   "date":  "2026-10-01T14:57:19Z",
+                   "version":  "0.2.43",
+                   "notes":  "Fix: old resolved conversations no longer show up as waiting customers.",
+                   "date":  "2026-10-01T15:09:54Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.42/PimaxSupportSystem_Setup_v0.2.42.exe",
-                                   "sha256":  "e853ad56760e104a26de183e8474266d7f9215261e684bc0f348f48225e59e68"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.43/PimaxSupportSystem_Setup_v0.2.43.exe",
+                                   "sha256":  "0b69b0b49a1c16227ec72ad2f44b73ac8fd17d7bc4bda9a26402f5495c468856"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.42/PimaxSupportSystem_v0.2.42.apk",
-                                   "sha256":  "68cda05cb3092f0650f790370b3dcb80189bc0804834265a20036c6a6eede842"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.43/PimaxSupportSystem_v0.2.43.apk",
+                                   "sha256":  "a83726b7dc743df7624150d7facb39e806b4698554f2810fd884cbd649b3990d"
                                }
                },
     "releases":  {
@@ -493,6 +493,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.42/PimaxSupportSystem_v0.2.42.apk",
                                                     "sha256":  "68cda05cb3092f0650f790370b3dcb80189bc0804834265a20036c6a6eede842"
+                                                }
+                                },
+                     "0.2.43":  {
+                                    "version":  "0.2.43",
+                                    "notes":  "Fix: old resolved conversations no longer show up as waiting customers.",
+                                    "date":  "2026-10-01T15:09:54Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.43/PimaxSupportSystem_Setup_v0.2.43.exe",
+                                                    "sha256":  "0b69b0b49a1c16227ec72ad2f44b73ac8fd17d7bc4bda9a26402f5495c468856"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.43/PimaxSupportSystem_v0.2.43.apk",
+                                                    "sha256":  "a83726b7dc743df7624150d7facb39e806b4698554f2810fd884cbd649b3990d"
                                                 }
                                 }
                  }
