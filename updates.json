@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.41",
-                   "notes":  "New-message sound fixed; Enter clears attachments; no more double images; notes after resolving in the right place; resolved/transferred chats leave the list; new customer messages show early from Freshchat.",
-                   "date":  "2026-10-01T14:35:07Z",
+                   "version":  "0.2.42",
+                   "notes":  "Fix: new customers who waited in the queue now play the new-customer alert.",
+                   "date":  "2026-10-01T14:57:19Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.41/PimaxSupportSystem_Setup_v0.2.41.exe",
-                                   "sha256":  "0b5cbb871a0814108eaa370f98ebaf592f69dc74305a0e2d101095f8a7b5c704"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.42/PimaxSupportSystem_Setup_v0.2.42.exe",
+                                   "sha256":  "e853ad56760e104a26de183e8474266d7f9215261e684bc0f348f48225e59e68"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.41/PimaxSupportSystem_v0.2.41.apk",
-                                   "sha256":  "8d5c04835ba2c2cef8279510419793f64e21eeae2f0def8e1cd4bce12863c63a"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.42/PimaxSupportSystem_v0.2.42.apk",
+                                   "sha256":  "68cda05cb3092f0650f790370b3dcb80189bc0804834265a20036c6a6eede842"
                                }
                },
     "releases":  {
@@ -480,6 +480,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.41/PimaxSupportSystem_v0.2.41.apk",
                                                     "sha256":  "8d5c04835ba2c2cef8279510419793f64e21eeae2f0def8e1cd4bce12863c63a"
+                                                }
+                                },
+                     "0.2.42":  {
+                                    "version":  "0.2.42",
+                                    "notes":  "Fix: new customers who waited in the queue now play the new-customer alert.",
+                                    "date":  "2026-10-01T14:57:19Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.42/PimaxSupportSystem_Setup_v0.2.42.exe",
+                                                    "sha256":  "e853ad56760e104a26de183e8474266d7f9215261e684bc0f348f48225e59e68"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.42/PimaxSupportSystem_v0.2.42.apk",
+                                                    "sha256":  "68cda05cb3092f0650f790370b3dcb80189bc0804834265a20036c6a6eede842"
                                                 }
                                 }
                  }
