@@ -2,7 +2,7 @@
     "schema":  1,
     "public":  {
                    "version":  "0.2.43",
-                   "notes":  "Fix: old resolved conversations no longer show up as waiting customers.",
+                   "notes":  "Minor backend changes and fixes.",
                    "date":  "2026-10-01T15:09:54Z",
                    "windows":  {
                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.43/PimaxSupportSystem_Setup_v0.2.43.exe",
@@ -15,7 +15,7 @@
                },
     "latest":  {
                    "version":  "0.2.46",
-                   "notes":  "Smooth Freshchat-to-Pimax message hand-over (dotted outline only), System lines centred, no repeating alert for two chats from one customer, Settings \u003e Log in to Freshchat, agent name green/grey for Freshchat sign-in",
+                   "notes":  "Minor backend changes and fixes.",
                    "date":  "2026-10-21T17:47:27Z",
                    "windows":  {
                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.46/PimaxSupportSystem_Setup_v0.2.46.exe",
@@ -29,7 +29,7 @@
     "releases":  {
                      "0.2.5":  {
                                    "version":  "0.2.5",
-                                   "notes":  "• In-app updates (this is the first version that can update itself)\n• Unsent-message cache: \u0027Message not sent\u0027 warning with Load message\n• Drafts are kept per customer\n• Android: splash screen, background alerts fix",
+                                   "notes":  "Minor backend changes and fixes.",
                                    "date":  "2026-09-25T16:05:15Z",
                                    "windows":  {
                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.5/PimaxSupportSystem_Setup_v0.2.5.exe",
@@ -42,7 +42,7 @@
                                },
                      "0.2.6":  {
                                    "version":  "0.2.6",
-                                   "notes":  "• Your settings and canned messages are saved to your account and shared between your apps (Windows + phone)\n• New-conversation sound no longer repeats for customers without a name\n• Canned Messages: the list can be scrolled back up after adding a message",
+                                   "notes":  "Minor backend changes and fixes.",
                                    "date":  "2026-09-25T18:49:08Z",
                                    "windows":  {
                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.6/PimaxSupportSystem_Setup_v0.2.6.exe",
@@ -55,7 +55,7 @@
                                },
                      "0.2.7":  {
                                    "version":  "0.2.7",
-                                   "notes":  "• Edit menu: Freshchat Resolve (asks to confirm, then resolves the conversation in Freshchat)\n• Developer build for testing",
+                                   "notes":  "Minor backend changes and fixes.",
                                    "date":  "2026-09-25T21:15:24Z",
                                    "windows":  {
                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.7/PimaxSupportSystem_Setup_v0.2.7.exe",
@@ -68,7 +68,7 @@
                                },
                      "0.2.8":  {
                                    "version":  "0.2.8",
-                                   "notes":  "• Fixed: \u0027Message not sent\u0027 warning appeared for messages that were sent (translated messages)\n• Fixed: replies containing the ticket link were treated as bot messages, so the customer kept ringing as unanswered\n• Freshchat Resolve in the Edit menu",
+                                   "notes":  "Minor backend changes and fixes.",
                                    "date":  "2026-09-27T14:20:09Z",
                                    "windows":  {
                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.8/PimaxSupportSystem_Setup_v0.2.8.exe",
@@ -81,7 +81,7 @@
                                },
                      "0.2.9":  {
                                    "version":  "0.2.9",
-                                   "notes":  "• Much better translation: Google Translate (offline translation stays as backup)\n• \u0027G\u0027 badge shows which messages Google translated",
+                                   "notes":  "Minor backend changes and fixes.",
                                    "date":  "2026-09-27T16:00:18Z",
                                    "windows":  {
                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.9/PimaxSupportSystem_Setup_v0.2.9.exe",
@@ -94,7 +94,7 @@
                                },
                      "0.2.10":  {
                                     "version":  "0.2.10",
-                                    "notes":  "• Chinese interface: our buttons, filters, times and labels are in Chinese too\n• Customer messages are translated into your language (Chinese agents get Chinese)\n• Customers without a name show their name in the list\n• Canned messages: typing /top finds /super_top_strap (search)\n• Better Google translation of whole sentences",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-27T16:45:58Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.10/PimaxSupportSystem_Setup_v0.2.10.exe",
@@ -107,7 +107,7 @@
                                 },
                      "0.2.11":  {
                                     "version":  "0.2.11",
-                                    "notes":  "Freshchat section in the Edit menu: Resolve and Waiting for Customer. Customer messages in any language now translate into Chinese.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-27T17:05:16Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.11/PimaxSupportSystem_Setup_v0.2.11.exe",
@@ -120,7 +120,7 @@
                                 },
                      "0.2.12":  {
                                     "version":  "0.2.12",
-                                    "notes":  "A conversation stays waiting until an agent replies; bot and system messages no longer count as an answer.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-27T17:23:19Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.12/PimaxSupportSystem_Setup_v0.2.12.exe",
@@ -133,7 +133,7 @@
                                 },
                      "0.2.13":  {
                                     "version":  "0.2.13",
-                                    "notes":  "Shows when a customer is typing (from Freshchat), in the conversation list and in the chat.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-27T18:01:55Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.13/PimaxSupportSystem_Setup_v0.2.13.exe",
@@ -146,7 +146,7 @@
                                 },
                      "0.2.14":  {
                                     "version":  "0.2.14",
-                                    "notes":  "Customer typing indicator (from Freshchat). Updates now show up within minutes.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-27T18:06:11Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.14/PimaxSupportSystem_Setup_v0.2.14.exe",
@@ -159,7 +159,7 @@
                                 },
                      "0.2.17":  {
                                     "version":  "0.2.17",
-                                    "notes":  "Read-by agents in chat, redesigned contact info, typing glow, glowing update badge. Phone: Vibrate setting, sounds at notification volume.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-27T19:27:44Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.17/PimaxSupportSystem_Setup_v0.2.17.exe",
@@ -172,7 +172,7 @@
                                 },
                      "0.2.18":  {
                                     "version":  "0.2.18",
-                                    "notes":  "22 new arrival and heartbeat sounds. Tap a sound to hear it, then Select.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-27T20:18:13Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.18/PimaxSupportSystem_Setup_v0.2.18.exe",
@@ -185,7 +185,7 @@
                                 },
                      "0.2.19":  {
                                     "version":  "0.2.19",
-                                    "notes":  "Freshchat private notes: see them in yellow, write them with the Private note mode next to + Add.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-27T20:50:07Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.19/PimaxSupportSystem_Setup_v0.2.19.exe",
@@ -198,7 +198,7 @@
                                 },
                      "0.2.20":  {
                                     "version":  "0.2.20",
-                                    "notes":  "Private notes now appear in the chat in time order; Private Note selector left of + Add.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-27T21:12:57Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.20/PimaxSupportSystem_Setup_v0.2.20.exe",
@@ -211,7 +211,7 @@
                                 },
                      "0.2.21":  {
                                     "version":  "0.2.21",
-                                    "notes":  "Translation follows customers who switch language mid-chat.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T14:44:45Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.21/PimaxSupportSystem_Setup_v0.2.21.exe",
@@ -224,7 +224,7 @@
                                 },
                      "0.2.22":  {
                                     "version":  "0.2.22",
-                                    "notes":  "Phone: new-customer alert while chatting, more room when typing, slimmer tabs, compact messages.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T14:54:54Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.22/PimaxSupportSystem_Setup_v0.2.22.exe",
@@ -237,7 +237,7 @@
                                 },
                      "0.2.23":  {
                                     "version":  "0.2.23",
-                                    "notes":  "Contact info shows the graphics card, never the processor.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T15:32:00Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.23/PimaxSupportSystem_Setup_v0.2.23.exe",
@@ -250,7 +250,7 @@
                                 },
                      "0.2.24":  {
                                     "version":  "0.2.24",
-                                    "notes":  "Phone messages look like desktop (no card around each message). Fixed a crash in the Freshchat sign-in window.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T15:48:29Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.24/PimaxSupportSystem_Setup_v0.2.24.exe",
@@ -263,7 +263,7 @@
                                 },
                      "0.2.25":  {
                                     "version":  "0.2.25",
-                                    "notes":  "Phone: green Agent Online, Conversations tab lights up for new messages elsewhere, stronger vibration.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T16:18:37Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.25/PimaxSupportSystem_Setup_v0.2.25.exe",
@@ -276,7 +276,7 @@
                                 },
                      "0.2.26":  {
                                     "version":  "0.2.26",
-                                    "notes":  "Phone: fixed conversation list showing above the chat.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T16:28:20Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.26/PimaxSupportSystem_Setup_v0.2.26.exe",
@@ -289,7 +289,7 @@
                                 },
                      "0.2.27":  {
                                     "version":  "0.2.27",
-                                    "notes":  "Phone: conversation list no longer above the chat, green Agent Online, previous-conversations bar back.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T16:42:35Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.27/PimaxSupportSystem_Setup_v0.2.27.exe",
@@ -302,7 +302,7 @@
                                 },
                      "0.2.28":  {
                                     "version":  "0.2.28",
-                                    "notes":  "Filter dropdowns open on top; tidier filter panel; phone read receipts no longer overlap text.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T16:57:16Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.28/PimaxSupportSystem_Setup_v0.2.28.exe",
@@ -315,7 +315,7 @@
                                 },
                      "0.2.29":  {
                                     "version":  "0.2.29",
-                                    "notes":  "Custom filters: shown by name when selected, listed under Custom like the other filters.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T17:08:17Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.29/PimaxSupportSystem_Setup_v0.2.29.exe",
@@ -328,7 +328,7 @@
                                 },
                      "0.2.30":  {
                                     "version":  "0.2.30",
-                                    "notes":  "Animations, waiting-conversation glow, chosen sounds on the phone in the background, waiting count on the phone, tidier contact info.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T17:38:33Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.30/PimaxSupportSystem_Setup_v0.2.30.exe",
@@ -341,7 +341,7 @@
                                 },
                      "0.2.31":  {
                                     "version":  "0.2.31",
-                                    "notes":  "Phone: Status, Priority, Group and Agent dropdowns work again (no keyboard).",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T17:50:15Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.31/PimaxSupportSystem_Setup_v0.2.31.exe",
@@ -354,7 +354,7 @@
                                 },
                      "0.2.32":  {
                                     "version":  "0.2.32",
-                                    "notes":  "Private notes no longer shown twice; phone Conversations tab pulses.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-28T18:11:41Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.32/PimaxSupportSystem_Setup_v0.2.32.exe",
@@ -367,7 +367,7 @@
                                 },
                      "0.2.33":  {
                                     "version":  "0.2.33",
-                                    "notes":  "Chinese: message-mode selector stays on one line.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-29T08:30:37Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.33/PimaxSupportSystem_Setup_v0.2.33.exe",
@@ -380,7 +380,7 @@
                                 },
                      "0.2.34":  {
                                     "version":  "0.2.34",
-                                    "notes":  "Chinese interface now also covers Settings, Canned Messages and the app menus.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-29T08:47:06Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.34/PimaxSupportSystem_Setup_v0.2.34.exe",
@@ -393,7 +393,7 @@
                                 },
                      "0.2.35":  {
                                     "version":  "0.2.35",
-                                    "notes":  "System and bot messages no longer stop the waiting-customer alerts.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-29T14:18:15Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.35/PimaxSupportSystem_Setup_v0.2.35.exe",
@@ -406,7 +406,7 @@
                                 },
                      "0.2.36":  {
                                     "version":  "0.2.36",
-                                    "notes":  "Phone: Enter makes a new line; tap SEND to send.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-29T16:04:51Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.36/PimaxSupportSystem_Setup_v0.2.36.exe",
@@ -419,7 +419,7 @@
                                 },
                      "0.2.37":  {
                                     "version":  "0.2.37",
-                                    "notes":  "Private notes can hold images and files; attachments stay with their own chat; image previews in the reply box; nicer attachment cards.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-29T17:51:13Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.37/PimaxSupportSystem_Setup_v0.2.37.exe",
@@ -432,7 +432,7 @@
                                 },
                      "0.2.38":  {
                                     "version":  "0.2.38",
-                                    "notes":  "Images and files now sit inside the message bubble, like Freshchat.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-29T18:32:48Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.38/PimaxSupportSystem_Setup_v0.2.38.exe",
@@ -445,7 +445,7 @@
                                 },
                      "0.2.39":  {
                                     "version":  "0.2.39",
-                                    "notes":  "Fix: private notes with images no longer show twice.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-29T18:45:19Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.39/PimaxSupportSystem_Setup_v0.2.39.exe",
@@ -458,7 +458,7 @@
                                 },
                      "0.2.40":  {
                                     "version":  "0.2.40",
-                                    "notes":  "Fix: Settings and Canned Messages windows no longer close by themselves.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-09-29T18:51:21Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.40/PimaxSupportSystem_Setup_v0.2.40.exe",
@@ -471,7 +471,7 @@
                                 },
                      "0.2.41":  {
                                     "version":  "0.2.41",
-                                    "notes":  "New-message sound fixed; Enter clears attachments; no more double images; notes after resolving in the right place; resolved/transferred chats leave the list; new customer messages show early from Freshchat.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-10-01T14:35:07Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.41/PimaxSupportSystem_Setup_v0.2.41.exe",
@@ -484,7 +484,7 @@
                                 },
                      "0.2.42":  {
                                     "version":  "0.2.42",
-                                    "notes":  "Fix: new customers who waited in the queue now play the new-customer alert.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-10-01T14:57:19Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.42/PimaxSupportSystem_Setup_v0.2.42.exe",
@@ -497,7 +497,7 @@
                                 },
                      "0.2.43":  {
                                     "version":  "0.2.43",
-                                    "notes":  "Fix: old resolved conversations no longer show up as waiting customers.",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-10-01T15:09:54Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.43/PimaxSupportSystem_Setup_v0.2.43.exe",
@@ -510,7 +510,7 @@
                                 },
                      "0.2.44":  {
                                     "version":  "0.2.44",
-                                    "notes":  "Invite review is back: + Add -\u003e Invite review",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-10-21T16:37:49Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.44/PimaxSupportSystem_Setup_v0.2.44.exe",
@@ -523,7 +523,7 @@
                                 },
                      "0.2.45":  {
                                     "version":  "0.2.45",
-                                    "notes":  "Freshchat Online button beside Agent Online: Available switch, Conversations, Phone calls",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-10-21T17:12:35Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.45/PimaxSupportSystem_Setup_v0.2.45.exe",
@@ -536,7 +536,7 @@
                                 },
                      "0.2.46":  {
                                     "version":  "0.2.46",
-                                    "notes":  "Smooth Freshchat-to-Pimax message hand-over (dotted outline only), System lines centred, no repeating alert for two chats from one customer, Settings \u003e Log in to Freshchat, agent name green/grey for Freshchat sign-in",
+                                    "notes":  "Minor backend changes and fixes.",
                                     "date":  "2026-10-21T17:47:27Z",
                                     "windows":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.46/PimaxSupportSystem_Setup_v0.2.46.exe",
