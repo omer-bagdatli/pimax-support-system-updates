@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.43",
-                   "notes":  "Fix: old resolved conversations no longer show up as waiting customers.",
-                   "date":  "2026-10-01T15:09:54Z",
+                   "version":  "0.2.44",
+                   "notes":  "Invite review is back: + Add -\u003e Invite review",
+                   "date":  "2026-10-21T16:37:49Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.43/PimaxSupportSystem_Setup_v0.2.43.exe",
-                                   "sha256":  "0b69b0b49a1c16227ec72ad2f44b73ac8fd17d7bc4bda9a26402f5495c468856"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.44/PimaxSupportSystem_Setup_v0.2.44.exe",
+                                   "sha256":  "3cd66a2887f936bdde3e6c392fc7ad664aef7c39c7783eca68939ecaf331322b"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.43/PimaxSupportSystem_v0.2.43.apk",
-                                   "sha256":  "a83726b7dc743df7624150d7facb39e806b4698554f2810fd884cbd649b3990d"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.44/PimaxSupportSystem_v0.2.44.apk",
+                                   "sha256":  "cb24c2eac1aad8496ba37fc37576ff14e449f17c21914c7b2853b8f329c52836"
                                }
                },
     "releases":  {
@@ -506,6 +506,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.43/PimaxSupportSystem_v0.2.43.apk",
                                                     "sha256":  "a83726b7dc743df7624150d7facb39e806b4698554f2810fd884cbd649b3990d"
+                                                }
+                                },
+                     "0.2.44":  {
+                                    "version":  "0.2.44",
+                                    "notes":  "Invite review is back: + Add -\u003e Invite review",
+                                    "date":  "2026-10-21T16:37:49Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.44/PimaxSupportSystem_Setup_v0.2.44.exe",
+                                                    "sha256":  "3cd66a2887f936bdde3e6c392fc7ad664aef7c39c7783eca68939ecaf331322b"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.44/PimaxSupportSystem_v0.2.44.apk",
+                                                    "sha256":  "cb24c2eac1aad8496ba37fc37576ff14e449f17c21914c7b2853b8f329c52836"
                                                 }
                                 }
                  }
