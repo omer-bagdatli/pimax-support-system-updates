@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.44",
-                   "notes":  "Invite review is back: + Add -\u003e Invite review",
-                   "date":  "2026-10-21T16:37:49Z",
+                   "version":  "0.2.45",
+                   "notes":  "Freshchat Online button beside Agent Online: Available switch, Conversations, Phone calls",
+                   "date":  "2026-10-21T17:12:35Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.44/PimaxSupportSystem_Setup_v0.2.44.exe",
-                                   "sha256":  "3cd66a2887f936bdde3e6c392fc7ad664aef7c39c7783eca68939ecaf331322b"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.45/PimaxSupportSystem_Setup_v0.2.45.exe",
+                                   "sha256":  "ad43f7df4c48ad867a0a30bed5d41d75784a4cbe1d2a0a74fd6bdf20a1e1a09d"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.44/PimaxSupportSystem_v0.2.44.apk",
-                                   "sha256":  "cb24c2eac1aad8496ba37fc37576ff14e449f17c21914c7b2853b8f329c52836"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.45/PimaxSupportSystem_v0.2.45.apk",
+                                   "sha256":  "cbb129734e0e91126ed1ef2883f06fed20d9d7a7634a3a35cff0a26beaf53098"
                                }
                },
     "releases":  {
@@ -519,6 +519,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.44/PimaxSupportSystem_v0.2.44.apk",
                                                     "sha256":  "cb24c2eac1aad8496ba37fc37576ff14e449f17c21914c7b2853b8f329c52836"
+                                                }
+                                },
+                     "0.2.45":  {
+                                    "version":  "0.2.45",
+                                    "notes":  "Freshchat Online button beside Agent Online: Available switch, Conversations, Phone calls",
+                                    "date":  "2026-10-21T17:12:35Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.45/PimaxSupportSystem_Setup_v0.2.45.exe",
+                                                    "sha256":  "ad43f7df4c48ad867a0a30bed5d41d75784a4cbe1d2a0a74fd6bdf20a1e1a09d"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.45/PimaxSupportSystem_v0.2.45.apk",
+                                                    "sha256":  "cbb129734e0e91126ed1ef2883f06fed20d9d7a7634a3a35cff0a26beaf53098"
                                                 }
                                 }
                  }
