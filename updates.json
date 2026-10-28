@@ -14,16 +14,16 @@
                                }
                },
     "latest":  {
-                   "version":  "0.2.57",
+                   "version":  "0.2.58",
                    "notes":  "Minor backend changes and fixes.",
-                   "date":  "2026-10-28T16:03:04Z",
+                   "date":  "2026-10-28T17:17:06Z",
                    "windows":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.57/PimaxSupportSystem_Setup_v0.2.57.exe",
-                                   "sha256":  "d6b5a94b231d05f14b19a1b46d8ab283364f958d1271ae67f7b205d92c13ab5a"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.58/PimaxSupportSystem_Setup_v0.2.58.exe",
+                                   "sha256":  "3337f5ea605350fedfecee4092b4a7c2c520091db15db8da0436400fe381a3f1"
                                },
                    "android":  {
-                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.57/PimaxSupportSystem_v0.2.57.apk",
-                                   "sha256":  "03028a6a0e1b7aaefe3e8f0450f1d64c6625b193cf22c83dd487c053da394f6a"
+                                   "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.58/PimaxSupportSystem_v0.2.58.apk",
+                                   "sha256":  "ee97a3c452b3177bd1ceb7dfb5c3da73d6bb21004a5970419ac18e4ff26b5263"
                                }
                },
     "releases":  {
@@ -688,6 +688,19 @@
                                     "android":  {
                                                     "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.57/PimaxSupportSystem_v0.2.57.apk",
                                                     "sha256":  "03028a6a0e1b7aaefe3e8f0450f1d64c6625b193cf22c83dd487c053da394f6a"
+                                                }
+                                },
+                     "0.2.58":  {
+                                    "version":  "0.2.58",
+                                    "notes":  "Minor backend changes and fixes.",
+                                    "date":  "2026-10-28T17:17:06Z",
+                                    "windows":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.58/PimaxSupportSystem_Setup_v0.2.58.exe",
+                                                    "sha256":  "3337f5ea605350fedfecee4092b4a7c2c520091db15db8da0436400fe381a3f1"
+                                                },
+                                    "android":  {
+                                                    "url":  "https://github.com/omer-bagdatli/pimax-support-system-updates/releases/download/v0.2.58/PimaxSupportSystem_v0.2.58.apk",
+                                                    "sha256":  "ee97a3c452b3177bd1ceb7dfb5c3da73d6bb21004a5970419ac18e4ff26b5263"
                                                 }
                                 }
                  }
